@@ -1,0 +1,17 @@
+Timings for queries representing the first vertice and the last vertice in each mesh:
+
+-- centaur.off --
+	Array implementation time: 44.15912628173828 seconds
+	Min-heap implementation time: 29.650591135025024 seconds
+
+-- dragon.obj --
+	Array implementation time: 46.417811155319214 seconds
+	Min-heap implementation time: 25.208937644958496 seconds
+
+-- man.off --
+	Array implementation time: 479.22175312042236 seconds
+	Min-heap implementation time: 320.495641708374
+
+-- weirdSphere.off --
+	Array implementation time: 1301.254854440689 seconds
+	Min-heap implementation time: 716.0063955783844
